@@ -10,4 +10,6 @@ Debugging ideas
 * p v puts
 * p page.body
 * gem launchy save_and_open_page
-
+* debugging rails `debug`
+* http://guides.rubyonrails.org/debugging_rails_applications.html
+* https://github.com/dearshrewdwit/course/blob/master/pills/debugging.md
