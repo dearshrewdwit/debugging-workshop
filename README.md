@@ -13,3 +13,4 @@ Debugging ideas
 * debugging rails `debug`
 * http://guides.rubyonrails.org/debugging_rails_applications.html
 * https://github.com/dearshrewdwit/course/blob/master/pills/debugging.md
+* seeing is believing
